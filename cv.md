@@ -1,5 +1,7 @@
 ### ***My name is Victor Irchits***
 
+![](../my%20photo.jpg)
+
 ### Contacts:
 phone number: +375 44 555-47-84;
 
